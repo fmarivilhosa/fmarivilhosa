@@ -1,6 +1,5 @@
 # Mari Freitas 👩🏾‍💻
 
-**`Quase urbanista, quase arquiteta… mas sempre construindo soluções com dados!`**
 
 Graduanda em Urbanismo e Arquitetura, com foco em planejamento urbano. Em transição para a área de Dados e Business Intelligence. <br>
 Meu interesse por análise de dados surgiu no contexto do planejamento urbano, onde sempre trabalhei com múltiplas fontes de informações para gerar insights estratégicos.
